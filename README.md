@@ -8,7 +8,7 @@ http://localhost:8090/usuario/post
 
 {
   "login" : "alan.barreto",
-  "password" : "990550teste"
+  "password" : "senha"
 }
 
 Após gerar o usuario é necessario gerar o token de autenticação.
@@ -41,7 +41,7 @@ Segue abaixo o endpoint e o json de exemplo lembrando de usar o metodo POST.
 
 {
   "login" : "alan.barreto",
-  "password" : "990550teste"
+  "password" : "senha"
 }
 
 Nesse repositorio teremos o arquivo "testetivia.com-0.0.1-SNAPSHOT.jar" para rodar copie o mesmo para um diretori de sua preferencia e para rodar o projeto execute via terminal o comando java -jar testetivia.com-0.0.1-SNAPSHOT.jar.
